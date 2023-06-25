@@ -1,7 +1,7 @@
 # Eyes_exercice
 Descripción: En este ejercicio hacemos estilización de elementos en el html para dar la ilusión de que un par de ojos siguien el movimiento del cursor a lo largo de la pantalla
 
-Cómo ejecutarlo / Hpw to run: 
+Cómo ejecutarlo / How to run: 
 
 Simplemente abrir el archivo llamado index.html en el browser de preferencia. Una vez ahí, se verán dos ojos caricaturezcos que empezarám a seguir el movimiento que el usuario haga con el cursor. 
 
